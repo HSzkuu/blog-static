@@ -22,7 +22,6 @@
     "@astrojs/tailwind": "^5.1.2",
     "@fontsource-variable/jetbrains-mono": "^5.1.1",
     "@fontsource/roboto": "^5.1.0",
-    "@iconify-json/fa6-brands": "^1.2.1",
     "@iconify-json/fa6-regular": "^1.2.1",
     "@iconify-json/fa6-solid": "^1.2.1",
     "@iconify-json/material-symbols": "^1.2.5",
@@ -60,6 +59,7 @@
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.4",
     "@biomejs/biome": "1.8.3",
+    "@iconify-json/fa6-brands": "^1.2.1",
     "@rollup/plugin-yaml": "^4.1.2",
     "@types/markdown-it": "^14.1.2",
     "@types/mdast": "^4.0.4",

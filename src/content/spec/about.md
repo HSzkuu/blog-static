@@ -1,9 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+这是星咲雫的小小空间，可能会发些各种有的没的，总之就是想到什么说什么。  
+说实话像我这种想到什么说什么的人不适合用 Serverless 但是被云厂商坑了，所以以后就 Serverless + Twitter 了。
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+::github{repo="HSzkuu/blog-static"}
